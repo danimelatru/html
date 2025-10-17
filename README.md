@@ -2,7 +2,7 @@
 
 This is a simple repo to hold the files and notes I made during a basic HTML course. It's mainly a personal reference guide for myself.
 
----
+
 
 ## What's Inside
 
@@ -19,7 +19,7 @@ This is a simple repo to hold the files and notes I made during a basic HTML cou
     * Building forms with different input types
     * Page structure (`<div>`, `<nav>`, `<article>`, `<footer>`)
 
----
+
 
 ## How to Use
 
